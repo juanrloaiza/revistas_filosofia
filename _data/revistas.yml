@@ -209,3 +209,45 @@
     - Philosopher's Index
     - Dialnet
     - SciELO
+
+- nombre: Análisis Filosófico
+  pais: Argentina
+  universidad: Sociedad Argentina de Análisis Filosófico (SADAF)
+  web: http://www.sadaf.org.ar/index.php?option=com_k2&view=item&layout=item&id=554&Itemid=263&lang=es
+  indices:
+    - SciELO
+    - Redalyc
+    - Latindex
+    - Philosopher's Index
+
+- nombre: Daimon
+  pais: España
+  universidad: Universidad de Murcia
+  web: http://revistas.um.es/daimon
+  cuartil: 2
+  indices:
+    - Dialnet
+    - Philosopher's Index
+    - SCOPUS
+
+- nombre: Araucaria
+  pais: España
+  universidad: Universidad de Sevilla
+  cuartil: 2
+  indices:
+    - Redalyc
+    - Latindex
+    - Dialnet
+    - Philosopher's Index
+    - DOAJ
+    - SCOPUS
+  web: https://institucional.us.es/araucaria/
+
+- nombre: Praxis Filosófica
+  web: http://praxisfilosofica.univalle.edu.co/
+  universidad: Universidad del Valle
+  pais: Colombia
+  indices:
+    - Dialnet
+    - Latindex
+    - Redalyc
