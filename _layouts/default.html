@@ -1,0 +1,39 @@
+<html>
+
+<head>
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/style.css">
+  <script type="text/javascript" src="https://unpkg.com/jquery"></script>
+  <script type="text/javascript" src="https://unpkg.com/tablesorter"></script>
+  <script type="text/javascript">
+    $(function() {
+      $("#theTable").tablesorter();
+    });
+  </script>
+  <meta content="utf8">
+</head>
+
+<body>
+  <section class="container">
+    <div class="row justify-content-between" id="header">
+
+      <div class="col-lg-10">
+        <h1 class="display-4">{{ page.title }}</h1>
+        <h5>Estas son algunas revistas indexadas en español en el área de filosofía.</h5>
+        <p>Procuré incluir información sobre qué índices siguen a la revista y su cuartil. Si la revista se califica en más de un área, se toma el cuartil correspondiente a filosofía o en algunos casos el mejor cuartil.</p>
+      </div>
+
+      <div class="row align-items-center">
+        <a><img src="img/github-icon.svg"></a>
+      </div>
+
+    </div>
+
+    <section class="">
+      {{content}}
+    </section>
+  </section>
+</body>
+
+</html>
