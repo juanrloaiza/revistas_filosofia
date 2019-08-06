@@ -4,7 +4,7 @@ title: Lista de revistas de filosofía en español
 email: juanrloaiza+revistas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Revistas de filosofía en español.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/revistas_filosofia" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
