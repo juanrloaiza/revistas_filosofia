@@ -251,3 +251,14 @@
     - Dialnet
     - Latindex
     - Redalyc
+
+- nombre: Tópicos
+  universidad: Universidad Panamericana
+  pais: México
+  indices:
+    - DOAJ
+    - SciELO
+    - SCOPUS
+    - Latindex
+    - Dialnet
+  web: http://topicosojs.up.edu.mx/ojs/index.php/topicos
