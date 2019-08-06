@@ -15,7 +15,6 @@
     - Web of Science
     - SCOPUS
     - DOAJ
-
   cuartil:      2
 
 - nombre:       Anuario Filosófico
@@ -37,7 +36,6 @@
     - SciELO
     - Redalyc
     - DOAJ
-    - Dialnet
 
 - nombre:       Crítica - Revista Hispanoamericana de Filosofía
   pais:         México
@@ -58,7 +56,6 @@
     - SciELO
     - Redalyc
     - Latindex
-    - Dialnet
 
 - nombre:       Eidos
   pais:         Colombia
@@ -67,7 +64,6 @@
   indices:
     - SCOPUS
     - SciELO
-    - Dialnet
     - Redalyc
     - DOAJ
   cuartil:      3
@@ -102,7 +98,6 @@
     - DOAJ
     - SciELO
     - Redalyc
-    - Dialnet
     - Latindex
   cuartil:      2
   web:          https://cintademoebio.uchile.cl/
@@ -144,7 +139,6 @@
     - SCOPUS
     - SciELO
     - Latindex
-    - Dialnet
     - Redalyc
   web:          http://revistaveritas.cl/
 
@@ -154,7 +148,6 @@
   indices:
     - SciELO
     - Latindex
-    - Dialnet
     - Redalyc
   web:          https://aprendeenlinea.udea.edu.co/revistas/index.php/estudios_de_filosofia
 
@@ -166,7 +159,6 @@
   indices:
     - Web of Science
     - Latindex
-    - Dialnet
     - SCOPUS
 
 - nombre:       Logos. Anales del Seminario de Metafísica
@@ -195,8 +187,6 @@
   web:          https://revistas.javeriana.edu.co/index.php/vniphilosophica
   indices:
     - Latindex
-
-    - Dialnet
     - SciELO
 
 - nombre:       Análisis Filosófico
@@ -214,7 +204,6 @@
   web:          http://revistas.um.es/daimon
   cuartil:      2
   indices:
-    - Dialnet
     - SCOPUS
 
 - nombre:       Araucaria
@@ -224,7 +213,6 @@
   indices:
     - Redalyc
     - Latindex
-    - Dialnet
     - DOAJ
     - SCOPUS
   web:          https://institucional.us.es/araucaria/
@@ -234,7 +222,6 @@
   universidad:  Universidad del Valle
   pais:         Colombia
   indices:
-    - Dialnet
     - Latindex
     - Redalyc
 
@@ -246,5 +233,4 @@
     - SciELO
     - SCOPUS
     - Latindex
-    - Dialnet
   web:          http://topicosojs.up.edu.mx/ojs/index.php/topicos
