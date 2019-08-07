@@ -16,7 +16,13 @@ layout: default
 {% assign revistas = site.data.revistas | sort: 'nombre' %}
 {% for revista in revistas %}
 <tr>
-  <td><a href='{{ revista.web }}'>{{ revista.nombre }}</a></td>
+  <td><a href='{{ revista.web }}'>{{ revista.nombre }}
+  {% for item in revista.indices %}
+  {% if 'DOAJ' == item %}
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" width="12px" style="margin-left: 6px">
+  {% endif %}
+  {% endfor %}
+  </a></td>
   <td>{{ revista.pais }}</td>
   <td>{{ revista.universidad }}</td>
   <td>
