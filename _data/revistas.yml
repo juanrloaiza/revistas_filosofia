@@ -236,3 +236,13 @@
     - Latindex
   web:          http://topicosojs.up.edu.mx/ojs/index.php/topicos
   cuartil: 3
+
+- nombre: Kriterion
+  universidad: Universidad Federal de Minas Gerais
+  pais: Brasil
+  web: https://www.kriterion.fafich.ufmg.br/index.php/kriterion/index
+  cuartil: 3
+  indices:
+    - SciELO
+    - SCOPUS
+    - DOAJ
