@@ -1,243 +1,245 @@
-- nombre:       Anales del Seminario de Historia de la Filosofía
-  web:          https://revistas.ucm.es/index.php/ASHF/index
-  pais:         España
-  universidad:  Universidad Complutense de Madrid
+- nombre:      Anales del Seminario de Historia de la Filosofía
+  web:         https://revistas.ucm.es/index.php/ASHF/index
+  pais:        España
+  universidad: Universidad Complutense de Madrid
   indices:
     - Web of Science
     - SCOPUS
-  cuartil:      4
+  cuartil:     4
 
 - nombre: "Theoria: Revista de Teoria, Historia y Fundamentos de la Ciencia"
-  web:          https://www.ehu.eus/ojs/index.php/THEORIA/index
-  pais:         España
-  universidad:  Universidad del País Vasco
+  web:         https://www.ehu.eus/ojs/index.php/THEORIA/index
+  pais:        España
+  universidad: Universidad del País Vasco
   indices:
     - Web of Science
     - SCOPUS
     - DOAJ
-  cuartil:      2
+  cuartil:     2
 
-- nombre:       Anuario Filosófico
-  web:          https://www.unav.edu/publicaciones/revistas/index.php/anuario-filosofico
-  pais:         España
-  universidad:  Universidad de Navarra
+- nombre:      Anuario Filosófico
+  web:         https://www.unav.edu/publicaciones/revistas/index.php/anuario-filosofico
+  pais:        España
+  universidad: Universidad de Navarra
   indices:
     - Web of Science
     - SCOPUS
-  cuartil:      4
+  cuartil:     4
 
-- nombre:       Ideas y Valores
-  pais:         Colombia
-  universidad:  Universidad Nacional de Colombia
-  cuartil:      2
-  web:          https://revistas.unal.edu.co/index.php/idval/
+- nombre:      Ideas y Valores
+  pais:        Colombia
+  universidad: Universidad Nacional de Colombia
+  cuartil:     2
+  web:         https://revistas.unal.edu.co/index.php/idval/
   indices:
     - Web of Science
     - SciELO
     - Redalyc
     - DOAJ
 
-- nombre:       Crítica - Revista Hispanoamericana de Filosofía
-  pais:         México
-  universidad:  Universidad Nacional Autónoma de México
-  web:          http://critica.filosoficas.unam.mx/pg/es/index.php
-  indices:
-    - DOAJ
-    - SCOPUS
-    - Web of Science
-  cuartil:      4
-
-- nombre:       Diánoia
-  pais:         México
-  universidad:  Universidad Nacional Autónoma de México
-  web:          http://dianoia.filosoficas.unam.mx/index.php/dianoia
-  indices:
-    - SciELO
-    - Redalyc
-
-- nombre:       Eidos
-  pais:         Colombia
-  universidad:  Universidad del Norte
-  web:          http://rcientificas.uninorte.edu.co/index.php/eidos/index
-  indices:
-    - SCOPUS
-    - SciELO
-    - Redalyc
-    - DOAJ
-  cuartil:      3
-
-- nombre:       Discusiones Filosóficas
-  pais:         Colombia
-  universidad:  Universidad de Caldas
-  cuartil:      3
-  web:          http://discusionesfilosoficas.ucaldas.edu.co/
-  indices:
-    - SciELO
-    - SCOPUS
-
-- nombre:       Co-herencia
-  pais:         Colombia
-  universidad:  EAFIT
-  cuartil:      3
-  web:          http://publicaciones.eafit.edu.co/index.php/co-herencia
-  indices:
-    - SciELO
-    - DOAJ
-    - Redalyc
-    - SCOPUS
-    - Web of Science
-
-- nombre:       Cinta de Moebio
-  pais:         Chile
-  universidad:  Universidad de Chile
-  indices:
-    - SCOPUS
-    - DOAJ
-    - SciELO
-    - Redalyc
-  cuartil:      2
-  web:          https://cintademoebio.uchile.cl/
-
-- nombre:       Utopía y Praxis Latinoamericana
-  pais:         Venezuela
-  universidad:  Universidad del Zulia
-  cuartil:      2
-  indices:
-    - SCOPUS
-    - Web of Science
-    - SciELO
-  web:          http://produccioncientificaluz.org/index.php/utopia/index
-
-- nombre:       Filosofia Unisinos
-  pais:         Brasil
-  universidad:  Universidad do Vale do Rio dos Sinos
-  cuartil:      2
-  web:          http://revistas.unisinos.br/index.php/filosofia
-  indices:
-    - Web of Science
-
-- nombre:       Manuscrito
-  pais:         Brasil
-  universidad:  Universidad Estadual de Campinas
-  cuartil:      3
-  web:          https://periodicos.sbu.unicamp.br/ojs/index.php/manuscrito
-  indices:
-    - DOAJ
-    - SciELO
-    - Web of Science
-
-- nombre:       Veritas
-  pais:         Chile
-  universidad:  Pontificio Seminario Mayor San Rafael de Valparaíso
-  cuartil:      3
-  indices:
-    - SCOPUS
-    - SciELO
-    - Redalyc
-  web:          http://revistaveritas.cl/
-
-- nombre:       Estudios de Filosofía
-  pais:         Colombia
-  universidad:  Universidad de Antioquia
-  indices:
-    - SciELO
-    - Redalyc
-  web:          https://aprendeenlinea.udea.edu.co/revistas/index.php/estudios_de_filosofia
-
-- nombre:       Teorema
-  pais:         España
-  universidad:  Universidad de Oviedo
-  cuartil:      2
-  web:          https://www.unioviedo.es/Teorema/Spanish/index.html
-  indices:
-    - Web of Science
-    - SCOPUS
-
-- nombre:       Logos. Anales del Seminario de Metafísica
-  pais:         España
-  universidad:  Universidad Complutense de Madrid
-  web:          https://revistas.ucm.es/index.php/ASEM
-  indices:
-    - SCOPUS
-    - Web of Science
-  cuartil:      2
-
-- nombre:       Recerca
-  pais:         España
-  universidad:  Universitat Jaume I
-  web:          http://www.e-revistes.uji.es/index.php/recerca
-  indices:
-    - SCOPUS
-    - Web of Science
-    - DOAJ
-  cuartil:      2
-
-- nombre:       Universitas Philosophica
-  pais:         Colombia
-  universidad:  Pontificia Universidad Javeriana
-  web:          https://revistas.javeriana.edu.co/index.php/vniphilosophica
-  indices:
-    - SciELO
-
-- nombre:       Análisis Filosófico
-  pais:         Argentina
-  universidad:  Sociedad Argentina de Análisis Filosófico (SADAF)
-  web:          http://www.sadaf.org.ar/index.php?option=com_k2&view=item&layout=item&id=554&Itemid=263&lang=es
-  indices:
-    - SciELO
-    - Redalyc
-    - SCOPUS
-
-- nombre:       Daimon
-  pais:         España
-  universidad:  Universidad de Murcia
-  web:          http://revistas.um.es/daimon
-  cuartil:      2
-  indices:
-    - SCOPUS
-
-- nombre:       Araucaria
-  pais:         España
-  universidad:  Universidad de Sevilla
-  cuartil:      2
-  indices:
-    - Redalyc
-    - DOAJ
-    - SCOPUS
-  web:          https://institucional.us.es/araucaria/
-
-- nombre:       Praxis Filosófica
-  web:          http://praxisfilosofica.univalle.edu.co/
-  universidad:  Universidad del Valle
-  pais:         Colombia
-  indices:
-    - Redalyc
-
-- nombre:       Tópicos
-  universidad:  Universidad Panamericana
-  pais:         México
-  indices:
-    - DOAJ
-    - SciELO
-    - SCOPUS
-  web:          http://topicosojs.up.edu.mx/ojs/index.php/topicos
-  cuartil: 3
-
-- nombre: Kriterion
-  universidad: Universidad Federal de Minas Gerais
-  pais: Brasil
-  web: https://www.kriterion.fafich.ufmg.br/index.php/kriterion/index
-  cuartil: 3
-  indices:
-    - SciELO
-    - SCOPUS
-    - DOAJ
-
-- nombre: Anales del Instituto de Investigaciones Estéticas
+- nombre:      Crítica - Revista Hispanoamericana de Filosofía
+  pais:        México
   universidad: Universidad Nacional Autónoma de México
-  pais: México
-  web:  http://www.analesiie.unam.mx/index.php/analesiie
-  cuartil: 3
+  web:         http://critica.filosoficas.unam.mx/pg/es/index.php
+  indices:
+    - DOAJ
+    - SCOPUS
+    - Web of Science
+  cuartil:     4
+
+- nombre:      Diánoia
+  pais:        México
+  universidad: Universidad Nacional Autónoma de México
+  web:         http://dianoia.filosoficas.unam.mx/index.php/dianoia
+  indices:
+    - SciELO
+    - Redalyc
+
+- nombre:      Eidos
+  pais:        Colombia
+  universidad: Universidad del Norte
+  web:         http://rcientificas.uninorte.edu.co/index.php/eidos/index
+  indices:
+    - SCOPUS
+    - SciELO
+    - Redalyc
+    - DOAJ
+  cuartil:     3
+
+- nombre:      Discusiones Filosóficas
+  pais:        Colombia
+  universidad: Universidad de Caldas
+  cuartil:     3
+  web:         http://discusionesfilosoficas.ucaldas.edu.co/
+  indices:
+    - SciELO
+    - SCOPUS
+
+- nombre:      Co-herencia
+  pais:        Colombia
+  universidad: EAFIT
+  cuartil:     3
+  web:         http://publicaciones.eafit.edu.co/index.php/co-herencia
+  indices:
+    - SciELO
+    - DOAJ
+    - Redalyc
+    - SCOPUS
+    - Web of Science
+
+- nombre:      Cinta de Moebio
+  pais:        Chile
+  universidad: Universidad de Chile
+  indices:
+    - SCOPUS
+    - DOAJ
+    - SciELO
+    - Redalyc
+  cuartil:     2
+  web:         https://cintademoebio.uchile.cl/
+
+- nombre:      Utopía y Praxis Latinoamericana
+  pais:        Venezuela
+  universidad: Universidad del Zulia
+  cuartil:     2
+  indices:
+    - SCOPUS
+    - Web of Science
+    - SciELO
+  web:         http://produccioncientificaluz.org/index.php/utopia/index
+
+- nombre:      Filosofia Unisinos
+  pais:        Brasil
+  universidad: Universidad do Vale do Rio dos Sinos
+  cuartil:     2
+  web:         http://revistas.unisinos.br/index.php/filosofia
+  indices:
+    - Web of Science
+
+- nombre:      Manuscrito
+  pais:        Brasil
+  universidad: Universidad Estadual de Campinas
+  cuartil:     3
+  web:         https://periodicos.sbu.unicamp.br/ojs/index.php/manuscrito
+  indices:
+    - DOAJ
+    - SciELO
+    - Web of Science
+
+- nombre:      Veritas
+  pais:        Chile
+  universidad: Pontificio Seminario Mayor San Rafael de Valparaíso
+  cuartil:     3
+  indices:
+    - SCOPUS
+    - SciELO
+    - Redalyc
+  web:         http://revistaveritas.cl/
+
+- nombre:      Estudios de Filosofía
+  pais:        Colombia
+  universidad: Universidad de Antioquia
+  indices:
+    - SciELO
+    - Redalyc
+  web:         https://aprendeenlinea.udea.edu.co/revistas/index.php/estudios_de_filosofia
+
+- nombre:      Teorema
+  pais:        España
+  universidad: Universidad de Oviedo
+  cuartil:     2
+  web:         https://www.unioviedo.es/Teorema/Spanish/index.html
+  indices:
+    - Web of Science
+    - SCOPUS
+
+- nombre:      Logos. Anales del Seminario de Metafísica
+  pais:        España
+  universidad: Universidad Complutense de Madrid
+  web:         https://revistas.ucm.es/index.php/ASEM
+  indices:
+    - SCOPUS
+    - Web of Science
+  cuartil:     2
+
+- nombre:      Recerca
+  pais:        España
+  universidad: Universitat Jaume I
+  web:         http://www.e-revistes.uji.es/index.php/recerca
+  indices:
+    - SCOPUS
+    - Web of Science
+    - DOAJ
+  cuartil:     2
+
+- nombre:      Universitas Philosophica
+  pais:        Colombia
+  universidad: Pontificia Universidad Javeriana
+  web:         https://revistas.javeriana.edu.co/index.php/vniphilosophica
+  indices:
+    - SciELO
+
+- nombre:      Análisis Filosófico
+  pais:        Argentina
+  universidad: Sociedad Argentina de Análisis Filosófico (SADAF)
+  web:         http://www.sadaf.org.ar/index.php?option=com_k2&view=item&layout=item&id=554&Itemid=263&lang=es
+  indices:
+    - SciELO
+    - Redalyc
+    - SCOPUS
+    - ROAD
+  cuartil:     4
+
+- nombre:      Daimon
+  pais:        España
+  universidad: Universidad de Murcia
+  web:         http://revistas.um.es/daimon
+  cuartil:     2
+  indices:
+    - SCOPUS
+
+- nombre:      Araucaria
+  pais:        España
+  universidad: Universidad de Sevilla
+  cuartil:     2
+  indices:
+    - Redalyc
+    - DOAJ
+    - SCOPUS
+  web:         https://institucional.us.es/araucaria/
+
+- nombre:      Praxis Filosófica
+  web:         http://praxisfilosofica.univalle.edu.co/
+  universidad: Universidad del Valle
+  pais:        Colombia
+  indices:
+    - Redalyc
+
+- nombre:      Tópicos
+  universidad: Universidad Panamericana
+  pais:        México
+  indices:
+    - DOAJ
+    - SciELO
+    - SCOPUS
+  web:         http://topicosojs.up.edu.mx/ojs/index.php/topicos
+  cuartil:     3
+
+- nombre:      Kriterion
+  universidad: Universidad Federal de Minas Gerais
+  pais:        Brasil
+  web:         https://www.kriterion.fafich.ufmg.br/index.php/kriterion/index
+  cuartil:     3
+  indices:
+    - SciELO
+    - SCOPUS
+    - DOAJ
+
+- nombre:      Anales del Instituto de Investigaciones Estéticas
+  universidad: Universidad Nacional Autónoma de México
+  pais:        México
+  web:         http://www.analesiie.unam.mx/index.php/analesiie
+  cuartil:     3
   indices:
     - Web of Science
     - SCOPUS
@@ -247,8 +249,28 @@
 
 - nombre: "Principia: An international journal of epistemology"
   universidad: Universidad Federal de Santa Catarina
-  pais: Brasil
-  web: https://periodicos.ufsc.br/index.php/principia
-  cuartil: 3
+  pais:        Brasil
+  web:         https://periodicos.ufsc.br/index.php/principia
+  cuartil:     3
   indices:
     - DOAJ
+    - SCOPUS
+
+- nombre:      Signos Filosóficos
+  universidad: Universidad Autónoma Metropolitana
+  pais:        México
+  web:         https://signosfilosoficos.izt.uam.mx/index.php/SF
+  cuartil:     4
+  indices:
+    - SCOPUS
+
+- nombre: Revista de Filosofía
+  universidad: Universidad de Chile
+  pais: Chile
+  web: https://revistafilosofia.uchile.cl/
+  cuartil: 4
+  indices:
+    - SCOPUS
+    - DOAJ
+    - SciELO
+    - Web of Science
