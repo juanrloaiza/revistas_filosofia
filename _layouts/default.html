@@ -15,23 +15,23 @@
 </head>
 
 <body>
-  <section class="container">
+  <section class="container-fluid" style="max-width: 80%">
     <div class="row justify-content-between" id="header">
 
       <div class="col-lg-10">
         <h1 class="display-4">{{ page.title }}</h1>
-        <h5>Estas son algunas revistas indexadas en español en el área de filosofía.</h5>
+        <h5>Por: <a href="https://www.juanrloaiza.me">Juan R. Loaiza</a></h5>
         <ul>
           <li>Procuré incluir información sobre algunos índices que siguen a la revista y su cuartil.
           </li>
-          <li> Sobre los índices, tomé índices que distinguieran entre revistas. Algunos índices como Philosopher's Index o Dialnet indexan prácticamente todas las de la lista. Se incluyen aquí los índices reportados por las revistas.
+          <li> Sobre los índices, tomé índices que distinguieran entre revistas. Algunos índices como (Philosopher's Index, Dialnet, Latindex) indexan prácticamente todas las de la lista. Incluyo los índices reportados por las revistas. Es posible que falte alguno.
           </li>
           <li>Con relación a los cuartiles, si la revista se califica en más de un área, se toma el cuartil correspondiente a filosofía. Si la revista también está indexada en otro cuartil relacionado, se toma el mejor cuartil.</li>
           <li>Las revistas marcadas con <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Open_Access_logo_PLoS_white.svg" style="max-width: 14px"> son aquellas indexadas por el Directory of Open Access Journals. Es posible que otras revistas también tengan políticas Open Access, pero aquí restrinjo el marcador a aquellas oficialmente indexadas.</li>
         </ul>
       </div>
 
-      <div class="row align-items-center">
+      <div class="row">
         <a class="d-none d-lg-block" href="https://github.com/juanrloaiza/revistas_filosofia"><img src="img/github-icon.svg"></a>
       </div>
 
@@ -40,6 +40,12 @@
     <section class="">
       {{content}}
     </section>
+
+    <footer>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+      <br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
+    </footer>
   </section>
 </body>
 
